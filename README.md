@@ -11,4 +11,4 @@ C-a | Prefix
 Prefix + s | Merge current window with another window
 Prefix + j | Send current pane to window
 Prefix + Alt + Shift + p  | Save whole history to file
-Prefix k  | Clear history
+Prefix + k  | Clear history
