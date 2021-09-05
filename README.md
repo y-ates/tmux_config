@@ -2,6 +2,7 @@
 
 1. ```cp .tmux.conf ~```
 2. ```cd /opt/; git clone https://github.com/tmux-plugins/tmux-logging```
+3. ```sudo pacman -S xclip```
 
 # Keybinds
 
